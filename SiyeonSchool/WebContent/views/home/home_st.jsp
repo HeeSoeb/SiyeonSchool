@@ -171,7 +171,7 @@
 					<th>게시일</th>
 					<th>댓글</th>
 				</tr>
-				tr>
+				<tr>
 					<td class="title">git 연습과제</td>
 					<td class="enroll-date">2024-07-15</td>
 					<td class="comments"><span class="material-icons">insert_comment</span></td>
